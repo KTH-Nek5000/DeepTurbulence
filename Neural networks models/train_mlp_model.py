@@ -13,8 +13,10 @@ Creates:
 
     ****_loss.mat file that contains the training and validation losses
 
-Author:
-    P.A. Srinivasan
+The code has been used for the results in:
+    "Predictions of turbulent shear flows using deep neural networks"
+    P.A. Srinivasan, L. Guastoni, H. Azizpour, P. Schlatter, R. Vinuesa
+    Physical Review Fluids (accepted)
 
 Note:
     This file may also require the created files ****.h5 and ****_loss.mat
