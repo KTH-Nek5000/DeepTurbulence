@@ -14,8 +14,10 @@ Creates:
     multiple seq_##.mat files in the given path, each file containing a single
     test and predicted time series for all 9 amplitudes.
 
-Author:
-    P.A. Srinivasan
+The code has been used for the results in:
+    "Predictions of turbulent shear flows using deep neural networks"
+    P.A. Srinivasan, L. Guastoni, H. Azizpour, P. Schlatter, R. Vinuesa
+    Physical Review Fluids (accepted)
 
 """
 import numpy as np
