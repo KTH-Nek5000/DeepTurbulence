@@ -3,8 +3,10 @@ function da = moehlis_model_odefun(~, a, Re)
 % ODE function - contains the system of ODEs for 9 amplitudes 
 % from Moehlis et al.
 %
-% Author:
-%   P.A. Srinivasan
+% The code has been used for the results in:
+% "Predictions of turbulent shear flows using deep neural networks"
+% P.A. Srinivasan, L. Guastoni, H. Azizpour, P. Schlatter, R. Vinuesa
+% Physical Review Fluids (accepted)
 %%
 
 global A B C k1 k2 k3
