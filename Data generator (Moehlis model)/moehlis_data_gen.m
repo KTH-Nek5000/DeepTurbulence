@@ -2,15 +2,13 @@
 % This file generates multiple time series and saves them in a single file.
 % These time series will be used as training data for neural networks.
 % 
-% The neural networks trained with this dataset can be used to replicate the results shown in 
-% "Predictions of turbulent shear flows using deep neural networks"
-% by P.A. Srinivasan, L. Guastoni, H. Azizpour, P. Schlatter, R. Vinuesa
-%
 % Output:
 %   moehlis_data_###.mat
 %
-% Author:
-%   P.A. Srinivasan
+% The code has been used for the results in:
+% "Predictions of turbulent shear flows using deep neural networks"
+% P.A. Srinivasan, L. Guastoni, H. Azizpour, P. Schlatter, R. Vinuesa
+% Physical Review Fluids (accepted)
 %%
 
 % Number of time series in the output file
