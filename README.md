@@ -1,4 +1,4 @@
-# Deepturb
+# Predictions of turbulent shear flows using deep neural networks
 
 ## Introduction
 
