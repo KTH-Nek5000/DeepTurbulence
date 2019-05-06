@@ -6,8 +6,10 @@ function visualize_fields(a_)
 % Input:
 %   a - A matrix of size (nTP, 9), where nTP is the number of time points
 %
-% Author: 
-%   P.A. Srinivasan
+% The code has been used for the results in:
+% "Predictions of turbulent shear flows using deep neural networks"
+% P.A. Srinivasan, L. Guastoni, H. Azizpour, P. Schlatter, R. Vinuesa
+% Physical Review Fluids (accepted)
 %%
 
 % Visualization start and end time
