@@ -2,8 +2,10 @@
 % This file generates a sample time series for the 9 amplitudes using the
 % ODE model from Moehlis et al.
 %
-% Author:
-%   P.A. Srinivasan
+% The code has been used for the results in:
+% "Predictions of turbulent shear flows using deep neural networks"
+% P.A. Srinivasan, L. Guastoni, H. Azizpour, P. Schlatter, R. Vinuesa
+% Physical Review Fluids (accepted)
 %%
 
 %% Parameters
