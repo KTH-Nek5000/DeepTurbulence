@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The code in this repository features a MATLAB implementation of the model for wall turbulence proposed by [Moehlis *et al.*](https://iopscience.iop.org/article/10.1088/1367-2630/6/1/056/meta) (2004, New J. Phys.). The time series generated are used to train neural networks that can predict the time evolution of the coefficients of the nine-equation model. More details about the implementation and the results from the training are available in ["Predictions of turbulent shear flows using deep neural networks", P.A. Srinivasan, L. Guastoni, H. Azizpour, P. Schlatter, R. Vinuesa](https://arxiv.org/abs/1905.03634) (2019, *Phys. Rev. Fluids*)
+The code in this repository features a MATLAB implementation of the model for wall turbulence proposed by [Moehlis *et al.*](https://iopscience.iop.org/article/10.1088/1367-2630/6/1/056/meta) (2004, New J. Phys.). The time series generated are used to train neural networks that can predict the time evolution of the coefficients of the nine-equation model. More details about the implementation and the results from the training are available in ["Predictions of turbulent shear flows using deep neural networks", P.A. Srinivasan, L. Guastoni, H. Azizpour, P. Schlatter, R. Vinuesa](https://link.aps.org/doi/10.1103/PhysRevFluids.4.054603) (2019, *Phys. Rev. Fluids*; also available in [arXiv](https://arxiv.org/abs/1905.03634))
 
 ## Data generation
 
